@@ -16,4 +16,4 @@ Jalankan perintah `git clone urlgithub`
 | Nama | Role |
 | ------ | ------ |
 | Ricky | Full Stack Developer |
-| Marco Anthony | Back End Engineer |
+| Keyshi | Back End Engineer |
